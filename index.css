@@ -280,6 +280,14 @@ body {
     outline:none;
     border-bottom:3px solid rgba(255, 255, 255,1);
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 ::placeholder {
     color:#fff;
 }
