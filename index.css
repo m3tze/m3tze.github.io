@@ -47,10 +47,10 @@ body {
     display:inline-block;
 }
 .box1 {
-    background:rgb(255, 50, 50);
+    background:rgb(255, 203, 203);
 }
 .box2 {
-    background:rgb(255, 50, 50);
+    background:rgb(255, 203, 203);
     margin-left:-5px;
 }
 #menu {
