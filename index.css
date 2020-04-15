@@ -274,11 +274,11 @@ body {
 }
 .container form input:focus {
     outline:none;
-    border-bottom:3px solid rgba(255, 255, 255,0.8);
+    border-bottom:3px solid rgba(255, 255, 255,1);
 }
 .container form textarea:focus {
     outline:none;
-    border-bottom:3px solid rgba(255, 255, 255,0.8);
+    border-bottom:3px solid rgba(255, 255, 255,1);
 }
 ::placeholder {
     color:#fff;
